@@ -1,0 +1,23 @@
+{
+  "name": "matrix-engine-ai",
+  "version": "1.0.0",
+  "description": "Hệ thống Matrix Engine AI Sunwin v2026 - Phân tích cầu chuỗi nâng cao",
+  "main": "ttlc.js",
+  "scripts": {
+    "start": "node ttlc.js",
+    "dev": "nodemon ttlc.js"
+  },
+  "keywords": [
+    "sunwin",
+    "ai-prediction",
+    "matrix-engine"
+  ],
+  "author": "@mrtinhios",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "ws": "^8.17.0"
+  }
+}
